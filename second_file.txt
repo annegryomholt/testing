@@ -1,0 +1,1 @@
+This is a secondt file for the git training

@@ -1,1 +1,4 @@
-This is the first file i added test for git
+This is the first file i added test for the git
+
+this file comes before the other and git is tracing
+my changes

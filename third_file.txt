@@ -1,1 +1,3 @@
 This i the third file i addef to my project
+
+git is really useful 

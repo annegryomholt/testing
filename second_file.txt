@@ -1,1 +1,1 @@
-This is a secondt file for the git training
+This is a secondt file i added to my projectfor the git training
